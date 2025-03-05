@@ -1,1 +1,3 @@
 # scripting
+
+SD card Partioning 
