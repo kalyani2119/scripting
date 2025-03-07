@@ -1,3 +1,4 @@
 # scripting
 
-SD card Partioning 
+> rsync tool script
+> SD card Partioning 
