@@ -1,4 +1,4 @@
-# scripting
+# Bash scripting 
 
 > <p> 1.rsync tool script </p>
 > <p> 2. Secure copy files sharing tool script </p>
