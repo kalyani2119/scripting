@@ -8,4 +8,3 @@ $$\Huge\mathbf{\color{maroon}BASH \space Scripting \space}$$
 > it reads the contents of the buffer using the cat and stores it in the message variable.It prints the received message to the console.
 > And it also cleans the Buffer file using the rm.
 
-> <p> 4. SD card Partioning </p>
