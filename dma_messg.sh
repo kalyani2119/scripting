@@ -8,3 +8,4 @@ Message=$(cat "$DMA_BUFFER")
 echo "Received message:$Message"
 
 rm "$DMA_BUFFER"
+
